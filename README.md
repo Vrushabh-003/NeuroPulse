@@ -1,3 +1,5 @@
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen)](https://neuropulse.streamlit.app/)
+
 # 🧠 NeuroPulse – Social Anxiety Prediction System
 
 NeuroPulse is an AI-powered web application that predicts **social anxiety levels** based on **lifestyle and physiological indicators**.  
@@ -32,7 +34,13 @@ The project demonstrates the application of **Applied Data Science** concepts co
 - **HTML & CSS** – Custom UI styling
 
 ---
+## 🌐 Live Application
 
+🚀 **Access the deployed application here:**  
+👉 https://neuropulse.streamlit.app/
+
+The application is deployed using **Streamlit Cloud** and is accessible on both desktop and mobile devices.
+---
 ## 📂 Project Structure
 
 NeuroPulse/
